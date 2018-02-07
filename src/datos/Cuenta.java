@@ -3,8 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package datos;
 
+/**
+ *
+ * @author Bryan Requenes
+ */
 import java.util.Objects;
 
 /**
@@ -96,3 +99,4 @@ public abstract class Cuenta {
     }
     
 }
+

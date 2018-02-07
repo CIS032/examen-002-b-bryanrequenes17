@@ -3,11 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package datos;
 
 /**
  *
- * @author Jorge Pucha
+ * @author Bryan Requenes
  */
 public class CuentaPrestamo extends Cuenta {
 
